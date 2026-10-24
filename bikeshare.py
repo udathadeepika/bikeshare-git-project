@@ -8,6 +8,7 @@ DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sun
 
 
 def get_filters():
+        """Ask the user for a city, month and day to analyze."""
     """Ask the user to specify a city, month, and day to analyze.
 
     Returns:
