@@ -20,3 +20,7 @@ None reported.
 
 ## Credits
 Data from Motivate. Project template from Udacity.
+
+## Log of Updates
+- README added
+- Docstrings added to bikeshare.py
